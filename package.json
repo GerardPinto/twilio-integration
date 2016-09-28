@@ -1,7 +1,7 @@
 {
   "name": "twilio-integration",
   "version": "1.0.0",
-  "description": "",
+  "description": "AWS Lambda functions to send and list messages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
     "node-lambda": "^0.8.10",
     "twilio": "^2.11.0",
     "twilio-api": "^0.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardPinto/twilio-integration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GerardPinto/twilio-integration/issues"
+  },
+  "homepage": "https://github.com/GerardPinto/twilio-integration#readme"
 }
